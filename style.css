@@ -6,10 +6,20 @@ body {
 }
 
 .header {
+    background-color: #1F2937;
+    font-size: 24px;
+    color: #F9FAF8;
+    display: flex;
+    padding: 0 200px;
+    justify-content: space-between;
 }
 
-.header {
-    background-color: #1F2937;
-
+ul {
+    display: flex;
+    align-self: center;
+    font-size: 18px;
+    list-style-type: none;
+    margin: 0;
+    gap: 24px;
 }
 
