@@ -18,8 +18,33 @@ ul {
     display: flex;
     align-self: center;
     font-size: 18px;
+    color: #E5E7EB;
     list-style-type: none;
     margin: 0;
     gap: 24px;
 }
+
+.hero{
+    display: flex;
+    color:#F9FAF8;
+    background-color: #1F2937;
+    padding: 100px 200px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+.hero-text {
+    margin-right: auto;
+    max-width: 480px;
+}
+
+.hero-image {
+    border: grey;
+    background-color: grey;
+    padding: 50px;
+}
+
+
 
