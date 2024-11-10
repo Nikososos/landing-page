@@ -35,15 +35,34 @@ h1 {
     font-size: 48px;
 }
 
+p {
+    font-size: 18px;
+    color:#E5E7EB;
+}
+
 .hero-text {
     margin-right: auto;
-    max-width: 480px;
+    max-width: 400px;
 }
 
 .hero-image {
     border: grey;
     background-color: grey;
     padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+}
+
+.hero-button {
+    background-color: #3882f7;
+    color:#F9FAF8;
+    padding: 8px 36px;
+    border-style: none;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 18px;
 }
 
 
