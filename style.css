@@ -65,5 +65,43 @@ p {
     font-size: 18px;
 }
 
+h2 {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 25px 300px;
+}
+
+.content-containers {
+    display: flex;
+    gap: 24px;
+    margin-top: 25px;
+}
+
+.container {
+    border-style: solid;
+    border-color:#3882f7;
+    height: 150px;
+    width: 150px;
+    border-radius: 8px;
+}
+
+.container-text {
+    display: flex;
+    margin-top: 10px;
+    gap: 24px;
+}
+
+.text {
+    height: 150px;
+    width: 150px;
+}
+
 
 
