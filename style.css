@@ -68,7 +68,7 @@ p {
 h2 {
     color: #1F2937;
     font-size: 36px;
-    font-weight: 900;
+    font-weight: bold;
 }
 
 .content {
@@ -101,6 +101,27 @@ h2 {
 .text {
     height: 150px;
     width: 150px;
+    text-align: center;
+}
+
+.quote {
+    padding: 100px 400px;
+    background-color:#E5E7EB;
+    max-width: 691px;
+}
+
+h3 {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.quoter {
+    color: #1F2937;
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bolder;
 }
 
 
