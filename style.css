@@ -124,5 +124,37 @@ h3 {
     font-weight: bolder;
 }
 
+.CTA-content{
+    background-color:#3882f7;
+    margin: 100px 300px;
+    max-width: 900px;
+    border-radius: 8px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.CTA-header {
+    font-weight:bold;
+    color:#F9FAF8;
+}
+
+.CTA-paragraph {
+    color:#F9FAF8;
+}
+
+.CTA-button {
+    border-color:#F9FAF8;
+    background-color:#3882f7;
+    border-radius: 8px;
+    border-style: solid;
+    color:#F9FAF8;
+    font-size: 18px;
+    padding: 8px 36px;
+}
+
+
+
 
 
